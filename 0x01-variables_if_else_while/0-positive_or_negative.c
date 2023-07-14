@@ -4,7 +4,7 @@
 /**
   *main - entry point
   *description: 'check n and its sign'
-  *return: always 0
+  *Return: always 0
   */
 int main(void)
 {
