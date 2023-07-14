@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 /**
-  *main - for n and its sign
-  *more headers goes there 
-  *betty style doc for function main goes there 
+  *main - entry point
+  *description: 'check n and its sign'
+  *return: always 0
   */
 int main(void)
 {
