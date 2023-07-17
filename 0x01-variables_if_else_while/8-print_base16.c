@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-  *main - entry point
+  *main - Entry point
   *Description: 'base 16'
-  *Return: 0
+  *Return: Always 0
   */
 int main(void)
 {
@@ -13,9 +13,10 @@ int main(void)
 	{
 		putchar(n);
 	}
-	for (m = 97; n <= 102; m++)
+	for (m =97; m <= 102; m++)
 	{
 		putchar(m);
 	}
+	putchar('\n');
 	return (0);
 }
